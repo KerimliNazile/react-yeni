@@ -36,3 +36,13 @@
     transform: rotate(360deg);
   }
 }
+button{
+  width: 10%;
+  height: 10%;
+  background-color: darkcyan;
+  font-size: 20px;
+  color: aliceblue;
+}
+p{
+  color: darkblue;
+}
